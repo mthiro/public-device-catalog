@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-24T10:00:00Z",
+  "devices": [
+    {
+      "id": "pub-ios-01",
+      "model": "iPhone 17 Pro",
+      "os": "iOS 26.3",
+      "serial": "PUBLIC",
+      "assignee": null,
+      "status": "available",
+      "note": "動作確認推奨: FaceID / Dynamic Island / ProMotion"
+    },
+    {
+      "id": "pub-ios-02",
+      "model": "iPhone 15",
+      "os": "iOS 18.2",
+      "serial": "PUBLIC",
+      "assignee": null,
+      "status": "available",
+      "note": "動作確認推奨: USB-C / Dynamic Island"
+    },
+    {
+      "id": "pub-ios-03",
+      "model": "iPhone SE (第3世代)",
+      "os": "iOS 17.6",
+      "serial": "PUBLIC",
+      "assignee": null,
+      "status": "available",
+      "note": "動作確認推奨: 小画面レイアウト / TouchID"
+    },
+    {
+      "id": "pub-ipad-01",
+      "model": "iPad Pro 13 M4",
+      "os": "iPadOS 26.3",
+      "serial": "PUBLIC",
+      "assignee": null,
+      "status": "available",
+      "note": "動作確認推奨: 大画面 / Stage Manager"
+    },
+    {
+      "id": "pub-and-01",
+      "model": "Pixel 9 Pro",
+      "os": "Android 15",
+      "serial": "PUBLIC",
+      "assignee": null,
+      "status": "available",
+      "note": "動作確認推奨: 最新 AOSP"
+    },
+    {
+      "id": "pub-and-02",
+      "model": "Galaxy S24 Ultra",
+      "os": "Android 14",
+      "serial": "PUBLIC",
+      "assignee": null,
+      "status": "available",
+      "note": "動作確認推奨: Samsung 独自UI (One UI) / S-Pen"
+    }
+  ]
+}
